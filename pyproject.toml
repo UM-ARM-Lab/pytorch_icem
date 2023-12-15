@@ -27,7 +27,7 @@ authors = [
     { name = "Thomas Power", email = "tpower@umich.edu" },
 ]
 maintainers = [
-    { name = "Sheng Zhong", email = "zhsh@umich.edu" }
+    { name = "Sheng Zhong", email = "zhsh@umich.edu" },
     { name = "Thomas Power", email = "tpower@umich.edu" },
 ]
 
