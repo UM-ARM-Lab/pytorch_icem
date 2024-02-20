@@ -1,4 +1,4 @@
-# PyTorch MPPI Implementation
+# PyTorch iCEM Implementation
 This repository implements the improved Cross Entropy Method (iCEM) 
 with approximate dynamics in pytorch, from [this paper](https://martius-lab.github.io/iCEM/). 
 
